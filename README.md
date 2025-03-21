@@ -2,6 +2,7 @@
 
 🧠 Software development student at Novi hogenschool<br/>
 🧑‍💼 Data administrator at the municipality of Utrecht<br/>
+🚧 Currently working on the following school/personal project: [WorkoutFlow](https://github.com/Devivdb/workout-flow-webapp.git)
 
 
 ## 🌐 Socials:
