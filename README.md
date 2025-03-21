@@ -1,6 +1,6 @@
 ## Hi, I'm Devi 👋
 
-🧠 Software development student at Novi Hogeschool<br/>
+🧠 Software development student at Novi university of applied sciences<br/>
 🧑‍💼 Data administrator at the municipality of Utrecht<br/>
 🚧 Currently working on the following school/personal project: [WorkoutFlow](https://github.com/Devivdb/workout-flow-webapp.git)
 
